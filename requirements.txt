@@ -14,8 +14,10 @@ decorator==4.4.2
 defusedxml==0.6.0
 dill==0.3.3
 entrypoints==0.3
+filelock==3.0.12
 future==0.18.2
 gast==0.3.3
+gdown==3.12.2
 google-auth==1.23.0
 google-auth-oauthlib==0.4.2
 google-pasta==0.2.0
@@ -73,6 +75,7 @@ pycparser==2.20
 Pygments==2.7.2
 pyparsing==2.4.7
 pyrsistent==0.17.3
+PySocks==1.7.1
 python-dateutil==2.8.1
 pytz==2020.4
 PyWavelets==1.1.1
