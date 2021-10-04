@@ -2,13 +2,13 @@
 covid-venv/
 
 # CT scans
-Notebooks/images
-Notebooks/gif
+notebooks/images
+notebooks/gif
 
 # Trained models that are a bit too heavy for GitHub
-Notebooks/models/model_192.h5
-Notebooks/models/model_224.h5
-Notebooks/models/model_512.h5
+notebooks/models/model_192.h5
+notebooks/models/model_224.h5
+notebooks/models/model_512.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -18,6 +18,7 @@ __pycache__/
 # C extensions
 *.so
 
+# Visual Studio Code
 .vscode/
 
 # Distribution / packaging
