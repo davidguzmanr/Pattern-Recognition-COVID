@@ -4,3 +4,7 @@ Final project for my Pattern Recognition class. Made in collaboration with [Mgcz
 The models and the weights can be downloaded (see the [Predictions and performance](https://github.com/davidguzmanr/Pattern-Recognition-COVID/blob/main/Notebooks/Predictions%20and%20performance.ipynb) notebook), so there is no need to train the models again.
 
 <img src='/Images/covid_training.gif'>
+
+# References
+- [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
